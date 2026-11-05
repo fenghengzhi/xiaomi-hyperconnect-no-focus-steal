@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# Proprietary app bundles and local testing artifacts are never published.
+*.app/
+*.dmg
+*.pkg
+*.zip
+*.i64
+*.idb
+*.dylib
+*.plist
+*.provisionprofile
+*.patch-report.json
+*.signing-report.json
+work/
+backups/
+local/
+.env
+.env.*
